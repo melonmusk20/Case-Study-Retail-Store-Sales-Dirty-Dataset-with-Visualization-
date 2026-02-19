@@ -1,0 +1,13 @@
+Bill No,Product,Category,Quantity,Price per Unit,Total Amount,Payment Mode
+101,Shampoo,PersonalCare,2,120,240,Cash
+102,Rice,Grocery,5,50,250,UPI
+103,Soap,Personal Care,3,30,90,Card
+104,Oil,Grocery,1,150,150,Cash
+105,Biscuit,Snacks,4,25,100,UPI
+106,Shampoo,PersonalCare,1,120,120,card
+107,Rice,grocery,2,50,100,Cash
+108,Chocolate,Snacks,5,20,100,UPI
+103,Soap,PersonalCare,6,30,180,Cash
+110,Oil,Grocery,3,150,450,Card
+111,Shampoo,PersonalCare,1,120,120,Cash
+112,Rice,Grocery,1000,50,50000,UPI
